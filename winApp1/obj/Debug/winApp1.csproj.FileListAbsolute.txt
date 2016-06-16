@@ -1,0 +1,48 @@
+C:\Users\dimon\Documents\SharpDevelop Projects\winApp1\winApp1\bin\Debug\winApp1.exe.config
+C:\Users\dimon\Documents\SharpDevelop Projects\winApp1\winApp1\bin\Debug\winApp1.exe
+C:\Users\dimon\Documents\SharpDevelop Projects\winApp1\winApp1\bin\Debug\winApp1.pdb
+C:\Users\dimon\Documents\SharpDevelop Projects\winApp1\winApp1\obj\Debug\winApp1.csprojResolveAssemblyReference.cache
+C:\Users\dimon\Documents\SharpDevelop Projects\winApp1\winApp1\obj\Debug\winApp1.MainForm.resources
+C:\Users\dimon\Documents\SharpDevelop Projects\winApp1\winApp1\obj\Debug\winApp1.csproj.GenerateResource.Cache
+C:\Users\dimon\Documents\SharpDevelop Projects\winApp1\winApp1\obj\Debug\winApp1.exe
+C:\Users\dimon\Documents\SharpDevelop Projects\winApp1\winApp1\obj\Debug\winApp1.pdb
+C:\Users\kovalevdv\Documents\SharpDevelop Projects\winApp1\winApp1\bin\Debug\winApp1.exe.config
+C:\Users\kovalevdv\Documents\SharpDevelop Projects\winApp1\winApp1\bin\Debug\winApp1.exe
+C:\Users\kovalevdv\Documents\SharpDevelop Projects\winApp1\winApp1\bin\Debug\winApp1.pdb
+C:\Users\kovalevdv\Documents\SharpDevelop Projects\winApp1\winApp1\obj\Debug\winApp1.csprojResolveAssemblyReference.cache
+C:\Users\kovalevdv\Documents\SharpDevelop Projects\winApp1\winApp1\obj\Debug\winApp1.MainForm.resources
+C:\Users\kovalevdv\Documents\SharpDevelop Projects\winApp1\winApp1\obj\Debug\winApp1.csproj.GenerateResource.Cache
+C:\Users\kovalevdv\Documents\SharpDevelop Projects\winApp1\winApp1\obj\Debug\winApp1.exe
+C:\Users\kovalevdv\Documents\SharpDevelop Projects\winApp1\winApp1\obj\Debug\winApp1.pdb
+C:\Users\kovalevdv\Documents\SharpDevelop Projects\Для сборки релизов\winApp1\bin\Debug\winApp1.exe.config
+C:\Users\kovalevdv\Documents\SharpDevelop Projects\Для сборки релизов\winApp1\bin\Debug\winApp1.exe
+C:\Users\kovalevdv\Documents\SharpDevelop Projects\Для сборки релизов\winApp1\bin\Debug\winApp1.pdb
+C:\Users\kovalevdv\Documents\SharpDevelop Projects\Для сборки релизов\winApp1\obj\Debug\winApp1.csprojResolveAssemblyReference.cache
+C:\Users\kovalevdv\Documents\SharpDevelop Projects\Для сборки релизов\winApp1\obj\Debug\winApp1.MainForm.resources
+C:\Users\kovalevdv\Documents\SharpDevelop Projects\Для сборки релизов\winApp1\obj\Debug\winApp1.csproj.GenerateResource.Cache
+C:\Users\kovalevdv\Documents\SharpDevelop Projects\Для сборки релизов\winApp1\obj\Debug\winApp1.exe
+C:\Users\kovalevdv\Documents\SharpDevelop Projects\Для сборки релизов\winApp1\obj\Debug\winApp1.pdb
+D:\inbox\Для собрки релиза\Для сборки релизов РКК\winApp1\bin\Debug\winApp1.exe.config
+D:\inbox\Для собрки релиза\Для сборки релизов РКК\winApp1\bin\Debug\winApp1.exe
+D:\inbox\Для собрки релиза\Для сборки релизов РКК\winApp1\bin\Debug\winApp1.pdb
+D:\inbox\Для собрки релиза\Для сборки релизов РКК\winApp1\obj\Debug\winApp1.csprojResolveAssemblyReference.cache
+D:\inbox\Для собрки релиза\Для сборки релизов РКК\winApp1\obj\Debug\winApp1.MainForm.resources
+D:\inbox\Для собрки релиза\Для сборки релизов РКК\winApp1\obj\Debug\winApp1.csproj.GenerateResource.Cache
+D:\inbox\Для собрки релиза\Для сборки релизов РКК\winApp1\obj\Debug\winApp1.exe
+D:\inbox\Для собрки релиза\Для сборки релизов РКК\winApp1\obj\Debug\winApp1.pdb
+D:\inbox\Для собрки релиза\Для сборки релизов ОБЩЕПИТ\winApp1\bin\Debug\winApp1.exe.config
+D:\inbox\Для собрки релиза\Для сборки релизов ОБЩЕПИТ\winApp1\bin\Debug\winApp1.exe
+D:\inbox\Для собрки релиза\Для сборки релизов ОБЩЕПИТ\winApp1\bin\Debug\winApp1.pdb
+D:\inbox\Для собрки релиза\Для сборки релизов ОБЩЕПИТ\winApp1\obj\Debug\winApp1.csprojResolveAssemblyReference.cache
+D:\inbox\Для собрки релиза\Для сборки релизов ОБЩЕПИТ\winApp1\obj\Debug\winApp1.MainForm.resources
+D:\inbox\Для собрки релиза\Для сборки релизов ОБЩЕПИТ\winApp1\obj\Debug\winApp1.csproj.GenerateResource.Cache
+D:\inbox\Для собрки релиза\Для сборки релизов ОБЩЕПИТ\winApp1\obj\Debug\winApp1.exe
+D:\inbox\Для собрки релиза\Для сборки релизов ОБЩЕПИТ\winApp1\obj\Debug\winApp1.pdb
+D:\inbox\Для собрки релиза\C# ОБЩЕПИТ\winApp1\obj\Debug\winApp1.csprojResolveAssemblyReference.cache
+D:\inbox\Для собрки релиза\C# ОБЩЕПИТ\winApp1\obj\Debug\winApp1.MainForm.resources
+D:\inbox\Для собрки релиза\C# ОБЩЕПИТ\winApp1\obj\Debug\winApp1.csproj.GenerateResource.Cache
+D:\inbox\Для собрки релиза\C# ОБЩЕПИТ\winApp1\obj\Debug\winApp1.exe
+D:\inbox\Для собрки релиза\C# ОБЩЕПИТ\winApp1\bin\Debug\winApp1.exe.config
+D:\inbox\Для собрки релиза\C# ОБЩЕПИТ\winApp1\bin\Debug\winApp1.exe
+D:\inbox\Для собрки релиза\C# ОБЩЕПИТ\winApp1\bin\Debug\winApp1.pdb
+D:\inbox\Для собрки релиза\C# ОБЩЕПИТ\winApp1\obj\Debug\winApp1.pdb
